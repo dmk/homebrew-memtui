@@ -1,7 +1,7 @@
 class Memtui < Formula
   desc "Interactive TUI for browsing and inspecting key-value stores (Redis, Memcached, etc.)"
   homepage "https://github.com/dmk/memtui"
-  version "0.3.0"
+  version "0.3.1"
   license "Apache-2.0"
 
   on_macos do

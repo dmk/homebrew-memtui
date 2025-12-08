@@ -15,4 +15,3 @@ brew install memtui
 brew update
 brew upgrade memtui
 ```
-
